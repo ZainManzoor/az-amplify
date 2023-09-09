@@ -1,5 +1,0 @@
-{
-  "AppSyncApiName": "azamplify",
-  "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
-}
